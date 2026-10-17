@@ -1,0 +1,14 @@
+,dtype,missing_pct,n_unique
+farm_id,str,0.0,900
+district,str,0.0,5
+crop,str,0.0,4
+season,str,0.0,2
+area_ha,float64,0.0,362
+rainfall_mm,float64,2.8,460
+irrigated,int64,0.0,2
+fertiliser_kg_ha,float64,4.4,117
+yield_q_ha,float64,0.0,217
+price_rs_q,int64,0.0,766
+cost_rs_ha,int64,0.0,883
+revenue_rs_ha,float64,0.0,889
+profit_rs_ha,float64,0.0,893

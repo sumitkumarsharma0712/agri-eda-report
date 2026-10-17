@@ -1,0 +1,11 @@
+farm_id,district,crop,season,area_ha,rainfall_mm,irrigated,fertiliser_kg_ha,yield_q_ha,price_rs_q,cost_rs_ha,revenue_rs_ha,profit_rs_ha
+F1062,Akola,cotton,Kharif,0.82,747.0,0,32.0,5.8,7300,60309,42340.0,-17969.0
+F1260,Wardha,soybean,Kharif,1.34,795.0,0,68.0,42.4,4604,30820,48802.0,17982.0
+F1269,Nagpur,cotton,Kharif,1.68,774.0,0,48.0,5.1,7163,50419,36531.0,-13888.0
+F1412,Nagpur,tur,Kharif,2.68,1233.0,0,92.0,26.8,7100,26116,47570.0,21454.0
+F1442,Akola,soybean,Kharif,6.54,937.0,1,54.0,48.4,4710,31059,56991.0,25932.0
+F1655,Amravati,tur,Kharif,1.56,678.0,0,,28.4,7567,31330,53726.0,22396.0
+F1719,Wardha,cotton,Kharif,2.29,885.0,0,77.0,46.0,6800,56370,78200.0,21830.0
+F1753,Nagpur,soybean,Kharif,0.69,1025.0,0,,44.8,4146,32900,46435.0,13535.0
+F1855,Yavatmal,cotton,Kharif,1.38,1035.0,1,95.0,17.9,7290,52415,130491.0,78076.0
+F1882,Akola,cotton,Kharif,2.16,543.0,0,50.0,5.2,7100,50611,36920.0,-13691.0

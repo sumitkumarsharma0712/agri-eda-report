@@ -1,0 +1,8 @@
+,yield_q_ha,rainfall_mm,fertiliser_kg_ha,irrigated,area_ha,cost_rs_ha,profit_rs_ha
+yield_q_ha,1.0,0.2,0.25,0.26,-0.0,0.08,0.63
+rainfall_mm,0.2,1.0,-0.03,0.06,-0.05,0.01,0.3
+fertiliser_kg_ha,0.25,-0.03,1.0,-0.02,0.0,-0.03,0.35
+irrigated,0.26,0.06,-0.02,1.0,0.02,0.02,0.39
+area_ha,-0.0,-0.05,0.0,0.02,1.0,-0.07,0.05
+cost_rs_ha,0.08,0.01,-0.03,0.02,-0.07,1.0,-0.13
+profit_rs_ha,0.63,0.3,0.35,0.39,0.05,-0.13,1.0
